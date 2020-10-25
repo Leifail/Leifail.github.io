@@ -1,0 +1,27 @@
+
+H1{
+	position: relative;
+	text-align: center;
+}
+.glav2{
+	position: relative;
+	text-align: center;
+}
+body {
+    background: #222;
+}
+  
+
+#text H1 {
+    color: rgba(0,0,0,0.6);
+    text-shadow: 2px 2px 3px rgba(255,255,255,0.1);
+}
+H1{
+	text-shadow: 6px 6px 0px rgba(0,0,0,0.2);
+}
+H1{
+	color: #DAA520;
+}
+.glav2{
+	color: #DAA520;
+}

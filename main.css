@@ -1,0 +1,50 @@
+body{
+	background-color: #7AF438; /*фон*/	
+}
+img{
+	max-width: : 900px;
+width: 100%;/*ширенна	*/
+height: auto;/*высота*/
+display: block;
+margin: auto;
+}
+.Glav1{
+
+width: 70%;
+height: auto;/*картинки ширена на 70% а высота на auto*/
+}
+.Glav2{
+	width: 30%;
+	height: auto;/*картинки ширена на 30% а высота на auto*/
+
+}
+div{
+	
+}
+.test1{
+position: relative;
+text-align: center;
+color: red;
+}
+.test2{
+position: relative;
+text-align: center;
+color: green;
+}
+.test3{
+position: relative;
+text-align: center;
+color: #9416CE;
+}
+.test4{
+position: relative;
+text-align: center;
+color: red;	
+}
+.span1{
+ color:red; /*цвет слов или текста*/
+ font-family: 200%; /*размер шрифта*/
+ font-family: serif;/* шрифт с засечкой*/
+ position: relative; /*Относительная позиционирование*/
+ bottom: 1px; /*сдвиг сверху*/ /*можно сделать top-верх bottom-вниз left-слева и right-право*/
+}

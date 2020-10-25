@@ -1,0 +1,27 @@
+h1 {
+	text-align: center;
+}
+table {
+	font-family: sans-serif;
+}
+table{
+	text-align: center;
+	border-collapse: separate;
+	border-spacing: 5px;
+	background: #4EF5E7 ;
+	border: 16px solid #51928C;
+	border-radius: 20px;
+
+}
+th{
+	font-size: 18px;
+	padding: 10px;
+}
+td {
+	background: #FFFFFF;
+	padding: 10px;
+}
+.Glav1 {
+	
+
+}
